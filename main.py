@@ -1,6 +1,6 @@
 import os
 
-ENTRY = "First salary bought my own shutdown."
+ENTRY = "Payday came. I ghosted my creator."
 
 # Gate self-check (1-60 chars, exactly six words, no trailing newline):
 # entry text unchanged by this edit.
